@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  ArduinoTraceDebug.cpp
+  SimAsm.cpp
+  SimEeprom.cpp
+  Sketch.cpp
+C:\Users\Leo Ngan\OneDrive\CommonProject\ArduinoDebugProject\SourceCode\VisualStudio\ArduinoDebugLibrary\ArduinoTraceDebug\Sketch.cpp(23,17): warning C4244: '=': conversion from 'short' to 'char', possible loss of data
+  Test.cpp
+  Generating Code...
+C:\Users\Leo Ngan\OneDrive\CommonProject\ArduinoDebugProject\SourceCode\VisualStudio\ArduinoDebugLibrary\ArduinoTraceDebug\Sketch.cpp(16,9): warning C4101: 'b': unreferenced local variable
+  ArduinoTraceDebug.vcxproj -> C:\Users\Leo Ngan\OneDrive\CommonProject\ArduinoDebugProject\SourceCode\VisualStudio\ArduinoDebugLibrary\Debug\ArduinoTraceDebug.exe

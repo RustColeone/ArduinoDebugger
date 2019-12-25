@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  arduino.cpp
+  ArduinoDebugLibrary.cpp
+  FuncsLib.cpp
+  pch.cpp
+  PortChat.cpp
+  Sim8266.cpp
+  SimAdvIO.cpp
+  SimGPIO.cpp
+  SimInterrupt.cpp
+  SimSerial.cpp
+  SimSPI.cpp
+  SimTime.cpp
+  SimWire.cpp
+  ArduinoDebugLibrary.vcxproj -> C:\Users\asus-pc\Desktop\ArduinoTraceableDebug\Release\ArduinoDebugLibrary.lib

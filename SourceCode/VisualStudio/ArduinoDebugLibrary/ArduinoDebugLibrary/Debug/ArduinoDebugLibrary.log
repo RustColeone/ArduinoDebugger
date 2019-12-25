@@ -1,0 +1,15 @@
+﻿  stdafx.cpp
+  arduino.cpp
+  ArduinoDebugLibrary.cpp
+  pch.cpp
+  PortChat.cpp
+  Sim8266.cpp
+  SimAdvIO.cpp
+  SimGPIO.cpp
+  SimInterrupt.cpp
+  SimSerial.cpp
+  SimSPI.cpp
+  SimTime.cpp
+  SimWire.cpp
+  Generating Code...
+  ArduinoDebugLibrary.vcxproj -> C:\Users\Leo Ngan\OneDrive\CommonProject\ArduinoDebugProject\SourceCode\VisualStudio\ArduinoDebugLibrary\Debug\ArduinoDebugLibrary.lib
